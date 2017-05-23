@@ -1,10 +1,11 @@
 # complex-answer-retrieval (TREC)
 This is an implementation for the TREC-CAR track found at http://trec-car.cs.unh.edu/
+Please have a look at Team1_report.pdf for detail implementation of the prototype.
 
 ```
 Clone this repository:
 
-git clone https://github.com/shilpadhagat/trec-complex-answer-retrieval
+git clone https://github.com/shilpadhagat/TREC-complex-answer-retrieval
 
 ```
 
